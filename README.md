@@ -1,4 +1,4 @@
-## Hi, I'm The Software Wizard
+## Hallo, I'm The Software Wizard
 
 ![Header](https://64.media.tumblr.com/45e8838541fd263a29f21f92fa625944/4ca026a765e1a6c4-bd/s1280x1920/c2b27e26180c9a5dbfaaf3dc8ac31b958650c114.gif)
 
