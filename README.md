@@ -27,7 +27,11 @@ Repo: [github.com/TheSoftwareWizard/oswriter](https://github.com/TheSoftwareWiza
 
 <h3>Trophies</h3>
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=TheSoftwareWizard&theme=dracula&no-frame=true&margin-w=1&title=-Issues&title=-PullRequest&title=-Reviews)](#)
+<p align="center">
+  <a href="https://github.com/TheSoftwareWizard">
+    <img src="https://github-profile-trophy.vercel.app/?username=TheSoftwareWizard&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <h2 align="center">My stats</h2>
 
@@ -35,10 +39,8 @@ Repo: [github.com/TheSoftwareWizard/oswriter](https://github.com/TheSoftwareWiza
   <a href="https://github.com/TheSoftwareWizard">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheSoftwareWizard&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheSoftwareWizard&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=TheSoftwareWizard&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=dark&background=000000&ring=8a2be2&fire=ff79c6&currStreakNum=c9a0ff&currStreakLabel=ff79c6&sideNums=c9a0ff&sideLabels=ff79c6&dates=7f7f7f&hide_border=true&border_radius=7&card_width=467" />
   </a>
-</p>
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=TheSoftwareWizard&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=dark&background=000000&ring=8a2be2&fire=ff79c6&currStreakNum=c9a0ff&currStreakLabel=ff79c6&sideNums=c9a0ff&sideLabels=ff79c6&dates=7f7f7f&hide_border=true&border_radius=7&card_width=467" />
 </p>
 
 <!-- <h3>Gallery</h3>
