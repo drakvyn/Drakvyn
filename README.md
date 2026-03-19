@@ -1,5 +1,4 @@
-## Hallo, I'm The Software Wizard
-
+## Hallo, I'm Drak
 ![Header](https://64.media.tumblr.com/45e8838541fd263a29f21f92fa625944/4ca026a765e1a6c4-bd/s1280x1920/c2b27e26180c9a5dbfaaf3dc8ac31b958650c114.gif)
 
 <b>Software engineer. I design and build robust, secure, and maintainable systems. I like hard problems and simple solutions that scale.</b>
@@ -23,20 +22,20 @@
 <h3>Featured projects</h3>
 
 **OSWriter** — Cross‑platform CLI to create bootable USB drives with safe device detection and auto‑update.  
-Repo: [github.com/TheSoftwareWizard/oswriter](https://github.com/TheSoftwareWizard/oswriter)
+Repo: [github.com/TheSoftwareWizard/oswriter](https://github.com/drak/oswriter)
 
 <h3>Trophies</h3>
 
 <p align="center">
-  <a href="https://github.com/TheSoftwareWizard">
-    <img src="https://github-profile-trophy.vercel.app/?username=TheSoftwareWizard&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/drakvyn">
+    <img src="https://github-profile-trophy.vercel.app/?username=drakvyn&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
 <h2 align="center">My stats</h2>
 
 <p align="center">
-  <a href="https://github.com/TheSoftwareWizard">
+  <a href="https://github.com/drakvyn">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheSoftwareWizard&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheSoftwareWizard&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
     <img height="180em" src="https://streak-stats.demolab.com?user=TheSoftwareWizard&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=dark&background=000000&ring=8a2be2&fire=ff79c6&currStreakNum=c9a0ff&currStreakLabel=ff79c6&sideNums=c9a0ff&sideLabels=ff79c6&dates=7f7f7f&hide_border=true&border_radius=7&card_width=467" />
