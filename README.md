@@ -22,7 +22,7 @@
 <h3>Featured projects</h3>
 
 **OSWriter** — Cross‑platform CLI to create bootable USB drives with safe device detection and auto‑update.  
-Repo: [github.com/TheSoftwareWizard/oswriter](https://github.com/drak/oswriter)
+Repo: [github.com/drakvyn/oswriter](https://github.com/drakvyn/oswriter)
 
 <h3>Trophies</h3>
 
@@ -36,9 +36,9 @@ Repo: [github.com/TheSoftwareWizard/oswriter](https://github.com/drak/oswriter)
 
 <p align="center">
   <a href="https://github.com/drakvyn">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheSoftwareWizard&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheSoftwareWizard&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
-    <img height="180em" src="https://streak-stats.demolab.com?user=TheSoftwareWizard&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=dark&background=000000&ring=8a2be2&fire=ff79c6&currStreakNum=c9a0ff&currStreakLabel=ff79c6&sideNums=c9a0ff&sideLabels=ff79c6&dates=7f7f7f&hide_border=true&border_radius=7&card_width=467" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drakvyn&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drakvyn&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=drakvyn&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=dark&background=000000&ring=8a2be2&fire=ff79c6&currStreakNum=c9a0ff&currStreakLabel=ff79c6&sideNums=c9a0ff&sideLabels=ff79c6&dates=7f7f7f&hide_border=true&border_radius=7&card_width=467" />
   </a>
 </p>
 
