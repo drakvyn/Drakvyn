@@ -7,7 +7,7 @@
 ██║  ██║██╔══██╗██╔══██║██╔═██╗ 
 ██████╔╝██║  ██║██║  ██║██║  ██╗
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-drak@github:~$ whoami → Jean Roa · software engineer · Chile
+drak@github:~$ whoami → Jean Marco Roa Ascanio · software engineer · Chile
 </pre>
 
 
