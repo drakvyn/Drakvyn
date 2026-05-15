@@ -62,7 +62,7 @@ Oi, I’m **Drak**. I build stuff.
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=240046" alt="Fedora" />
 </p>
 
-### `drak@host: ~/projects` — featured
+### `drak@host: ~/projects` featured
 
 **OSWriter** — Cross-platform CLI for bootable USB drives (safe device detection, auto-update).  
 → [github.com/drakvyn/oswriter](https://github.com/drakvyn/oswriter)
